@@ -1,0 +1,42 @@
+
+# Virtual environment files
+.venv/
+venv/
+env/
+.env/
+.idea/
+.vscode/
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (keep raw data, but ignore processed data and temporary files)
+data/processed/
+*.csv
+*.json
+*.parquet
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.coverage
+
+# PyMC3 and Arviz specific (cache files)
+.arviz-cache/
+
+# Node.js specific (for dashboard frontend)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+build/

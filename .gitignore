@@ -17,10 +17,16 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files (keep raw data, but ignore processed data and temporary files)
-data/processed/
+# Ignore all CSV files
 *.csv
-*.json
-*.parquet
+
+# Ignore everything inside /data/processed/
+data/processed/*
+
+# ✅ EXCEPTION: Do NOT ignore this file
+!data/processed/events_data.csv
+
+
 
 # Operating System Files
 .DS_Store

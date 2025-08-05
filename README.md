@@ -15,6 +15,26 @@ The project is structured into three main tasks:
 - src/: Source code for data processing, modeling, and dashboard applications.
 - tests/: Unit tests for various modules.
 - .github/workflows/: CI/CD pipelines using GitHub Actions.
+```
+BirhanEnergies_OilPriceAnalysis
+├── data/
+│   ├── processed/          # Cleaned data and model output
+│   └── raw/                # Original raw data
+│
+├── docs/                   # Project documentation, reports, and workflows
+│
+├── notebooks/              # Jupyter Notebooks for analysis and visualization
+│
+├── src/
+│   ├── data_preparation/   # Scripts for data cleaning
+│   └── models/             # Scripts for model implementation
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
+└── .github
+└── test/
+```
 ## Task 1: Laying the Foundation for Analysis
 
 This task focused on establishing a robust foundation for the entire project. The primary goal was to ensure a clean, well-understood dataset and a clear analytical plan before moving on to complex modeling.

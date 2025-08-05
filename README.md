@@ -51,4 +51,11 @@ Upon completion of the model's run, the next steps are to:
 2. **Associate with Events**: Cross-reference the detected date with the historical events from Task 1 to formulate a hypothesis about the cause of the volatility shift.
 
 3. **Document Findings**: Record the key insights and quantitative impacts for use in the final report and dashboard.
+## Contact Information
+
+## Contact Information
+
+**Shegaw Adugna**  
+Email: [shegamihret@gmail.com](mailto:shegamihret@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/shegaw-adugna-b751a1166/](https://www.linkedin.com/in/shegaw-adugna-b751a1166/)
 

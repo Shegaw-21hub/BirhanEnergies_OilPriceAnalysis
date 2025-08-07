@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+arviz
+pymc
+scipy
+flask
+Flask-Cors

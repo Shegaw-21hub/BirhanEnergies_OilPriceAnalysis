@@ -72,6 +72,42 @@ Upon completion of the model's run, the next steps are to:
 
 3. **Document Findings**: Record the key insights and quantitative impacts for use in the final report and dashboard.
 ## Contact Information
+## Task 3: Interactive Dashboard Development
+
+This task focuses on building a full-stack, interactive dashboard to present the results from the change point analysis. The goal is to provide a user-friendly interface for stakeholders to explore the data, visualize key events, and understand the impact of volatility shifts.
+
+---
+
+### 🔑 Key Achievements
+
+- **Full-Stack Architecture**: The foundation for a robust, interactive dashboard has been established using a modern full-stack architecture.
+
+- **Backend (Flask)**: A REST API using Flask was set up (`src/dashboard_backend/flask_backend.py`) to serve processed data and model outputs to the frontend.
+
+- **Frontend (React)**: A new React application was initialized (`frontend/`) to handle the user interface and data visualization.
+
+- **Frontend-Backend Integration**: The initial framework for communication between the frontend and backend is in place, allowing the React components to fetch analysis results from the Flask API.
+
+- **Data Integration**: The `events_data.csv` was updated to include additional fields, preparing it for direct use within the dashboard's interactive features.
+
+---
+
+### 📌 Next Steps
+
+- **Develop Dashboard Components**  
+  Build the individual React components to display:
+  - Charts (historical prices, log returns)
+  - Key metrics (change point date, volatility changes)
+  - A list of historical events
+
+- **Implement Interactivity**  
+  Add features to the dashboard that allow users to:
+  - Filter data by date ranges
+  - Highlight specific events on the charts
+  - Visualize the impact of those events
+
+- **Deployment**  
+  Prepare the application for deployment to make it accessible to stakeholders.
 
 ## Contact Information
 

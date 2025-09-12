@@ -109,9 +109,5 @@ This task focuses on building a full-stack, interactive dashboard to present the
 - **Deployment**  
   Prepare the application for deployment to make it accessible to stakeholders.
 
-## Contact Information
 
-**Shegaw Adugna**  
-Email: [shegamihret@gmail.com](mailto:shegamihret@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/shegaw-adugna-b751a1166/](https://www.linkedin.com/in/shegaw-adugna-b751a1166/)
 
